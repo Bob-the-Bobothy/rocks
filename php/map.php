@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Turlock Rock and Gem Show Map</title>
+    <title>Turlock Rock and Gem Show- Map</title>
     <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>
