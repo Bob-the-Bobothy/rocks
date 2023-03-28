@@ -17,7 +17,7 @@
     <h>See our exhibits below </h>
     <main class="footer">
       <p></p>
-      <img src="http://turlockgemshow.com/images/exhibits/001.jpg" alt="don.jpg" width="500" height="600">
+      <img src="https://turlockgemshow.com/images/exhibits/001.jpg" alt="" width="500" height="600">
     </main>
     <footer>
       <p>&copy; 2023 Turlock Rock and Gem Show</p>
